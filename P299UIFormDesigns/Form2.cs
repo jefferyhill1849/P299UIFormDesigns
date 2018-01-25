@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace P299UIFormDesigns
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
-        }
-
-        private void addToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
